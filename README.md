@@ -1,7 +1,9 @@
 pour lancer l'application : 
 
 dans un terminal au niveau de la racine du projet : sofwayMedicalProject
+
 1- faire un : mvn clean package  (afin de recuperer les dependances)
+
 2- faire un : ./mvnw spring-boot:run  (pour lancer l'application)
 
 le project comprend : 
